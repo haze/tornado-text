@@ -6,7 +6,7 @@ tornadotext in numerous languages
 2. output either specified line amount (+ 1) or infinite (if none were given)
 
 # contrib
-* nv-vn (nv) [haskell, idris, scheme (guile)]
+* nv-vn (nv) [haskell, idris, scheme (guile), ocaml, bash]
 
 * hvze (haze) [io, java, go]
 
