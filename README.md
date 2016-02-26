@@ -8,6 +8,6 @@ tornadotext in numerous languages
 # contrib
 * nv-vn (nv) [haskell, idris, scheme (guile), ocaml, bash]
 
-* hvze (haze) [io, java, go]
+* hvze (haze) [io, java, go, swift]
 
 just pull request with your code in a folder and a output.txt and ill accept (if it meets guidelines)
