@@ -20,12 +20,11 @@ def puts_rotation
   puts @text.rotate!.join
 end
 
-case @lines
-when -1
+if @lines < -1
+  abort('ERROR: Invalid line amount, should be -1 or > 0')
+elsif @lines == -1
   puts @text.join
   loop { puts_rotation }
-when 0
-  abort 'ERROR: Line amount should be more than 0'
 else
   puts @text.join
   @lines.times { puts_rotation }
