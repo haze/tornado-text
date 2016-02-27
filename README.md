@@ -10,4 +10,6 @@ tornadotext in numerous languages
 
 * hvze (haze) [io, java, go, swift]
 
+* arianon [ruby]
+
 just pull request with your code in a folder and a output.txt and ill accept (if it meets guidelines)
