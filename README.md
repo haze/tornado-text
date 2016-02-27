@@ -6,12 +6,12 @@ tornadotext in numerous languages
 2. output either specified line amount (+ 1) or infinite (if none were given)
 
 # contrib
-* nv-vn (nv) [haskell, idris, scheme (guile), ocaml, bash]
+* [nv-vn (nv)](https://github.com/nv-vn) [haskell, idris, scheme (guile), ocaml, bash]
 
-* hvze (haze) [io, java, go, swift, rust``]
+* [hvze (haze)](https://github.com/hvze) [io, java, go, swift, rust``]
 
-* apteryx [rust-help]
+* [apteryx](https://github.com/apertix) [rust-help]
 
-* arianon [ruby]
+* [arianon](https://github.com/arianon) [ruby]
 
 just pull request with your code in a folder and a output.txt and ill accept (if it meets guidelines)
