@@ -8,7 +8,9 @@ tornadotext in numerous languages
 # contrib
 * nv-vn (nv) [haskell, idris, scheme (guile), ocaml, bash]
 
-* hvze (haze) [io, java, go, swift]
+* hvze (haze) [io, java, go, swift, rust``]
+
+* apteryx [rust-help]
 
 * arianon [ruby]
 

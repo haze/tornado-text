@@ -1,0 +1,14 @@
+Enter some text: 
+Hi Github!
+Enter line count (-1 for infinity)
+10
+Hi Github! 
+i Github! H
+ Github! Hi
+Github! Hi 
+ithub! Hi G
+thub! Hi Gi
+hub! Hi Git
+ub! Hi Gith
+b! Hi Githu
+! Hi Github
