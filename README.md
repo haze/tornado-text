@@ -15,3 +15,22 @@ tornadotext in numerous languages
 * [arianon](https://github.com/arianon) [ruby]
 
 just pull request with your code in a folder and a output.txt and ill accept (if it meets guidelines)
+
+# LoCs / Language
+
+You can get this by running:
+
+```bash
+$ wc -l ./*/[Tt]ornado.* | head -$(ls -l | grep ^d | wc -l) | sort | awk '{split($2,x,"/");print x[2] ": " $1}' | column -t
+haskell:  14
+ocaml:    16
+idris:    17
+bash:     18
+scheme:   23
+io:       27
+ruby:     31
+java:     45
+go:       50
+rust:     55
+swift:    57
+```
