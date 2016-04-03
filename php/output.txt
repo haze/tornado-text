@@ -1,0 +1,16 @@
+tso@oysterpail /tmp $ ./tornado.php
+Enter some text:
+Hello, 世界
+Enter line amount (-1 for ∞, default: 10):
+
+Hello, 世界
+ello, 世界H
+llo, 世界He
+lo, 世界Hel
+o, 世界Hell
+, 世界Hello
+ 世界Hello,
+ 世界Hello,
+ 界Hello, 世
+ Hello, 世界
+
